@@ -6,9 +6,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-#apikey = env.py['apikey']
-#url = env.py['url']
-
 apikey = os.environ['apikey']
 url = os.environ['url']
 
